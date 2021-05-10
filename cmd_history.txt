@@ -1,0 +1,50 @@
+cd ../../../..
+mkdir lv-chenyu.github.io
+cd lv-chenyu.github.io
+git init
+cd ..
+mkdir jekyllWorkspace
+cd jekyllWorkspace
+jekyll lv-chenyu.github.io
+gem install bundle
+gem install github-pages
+bundle exec jekyll serve -P 5555 --watch
+git
+install git
+git init
+cd lv-chenyu.github.io
+gem install bundler
+bundle install
+bundle exec jekyll server
+bundle init
+bundle install
+bundle exec jekyll server
+jekyll
+jekyll -v
+gem install jekyll
+jekyll s
+jekyll serve
+jekyll serve -H 0.0.0.0 -P 80 --detach
+bundle exec jekyll serve -P 5555 --watch
+gem install jekyll
+bundle exec jekyll serve -P 5555 --watch
+bundle add jekyll
+bundle exec jekyll serve -P 5555 --watch
+gem install jekyll-paginate
+bundle exec jekyll serve -P 5555 --watch
+bundle install
+bundle exec jekyll serve -P 5555 --watch
+gem list
+gem uninstall jekyll
+jekyll serve
+vim gemfile
+vim Gemfile
+ls
+bundle install
+bundle exec jekyll serve
+bundle install
+bundle exec jekyll serve
+y
+ git pull
+history >cmd_his.txt
+doskey /h >cmd_history.txt

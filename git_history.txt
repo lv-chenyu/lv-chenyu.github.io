@@ -1,0 +1,49 @@
+    1  git clone https://lv-chenyu.github.io.git
+    2  git clone https://github.com/lv-chenyu/lv-chenyu.github.io.git
+    3  ls
+    4  cd lv-chenyu.github.io/
+    5  ls
+    6  vim _config.yml 
+    7  git status
+    8  git diff
+    9  git log
+   10  git add -A
+   11  git log
+   12  commit -m "第一次尝试“
+q
+   13  git commit -m "第一次尝试”
+
+   14  commit -m "第一次尝试"
+   15  git commit -m "第一次尝试"
+   16  git pull
+   17  git status
+   18  git add
+   19  git add .
+   20  git commit -m "add new files"
+   21  git config --global user.emal"l.ch.y@qq.com"
+   22  git config --global user.name"lv-chenyu"
+   23  git commit -m "add new files"
+   24  git config --global user.emal"l.ch.y@qq.com"
+   25  git config --global user.email"l.ch.y@qq.com"
+   26  git config --global user.name "lv-chenyu"
+   27  git config --global user.email "l.ch.y@qq.com"
+   28  git commit -m "add new files"
+   29  git push -u origin master
+   30  git config --global --unset http.proxy 
+   31  git config --global --unset https.proxy
+    解决方案：cmd下命令执行 ipconfig/flushdns 清理dns缓存
+   34  git push -u origin master
+   35  git push -u origin master
+   36  git push -u origin master
+   37  git status
+   38  git add .
+   39  git commit -m "add new files"
+   40  git push -u origin master
+   41  git config --global --unset http.proxy 
+   42  git config --global --unset https.proxy
+   43  git push -u origin master
+   44  git push -u origin master
+   45  git log >123.txt
+   46  history
+   47  git reflog
+   48  history >history.txt
